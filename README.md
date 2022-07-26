@@ -6,6 +6,10 @@ A busy CS student interested in developing open-source and free software.
 
 TypeScript, Rust, Python, Go
 
+## Operating System in Use
+
+Arch Linux
+
 ## Contact
 
 Email: DCsunset [at] protonmail [dot] com
