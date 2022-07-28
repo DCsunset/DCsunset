@@ -12,7 +12,8 @@ Arch Linux
 
 ## Contact
 
-Email: DCsunset [at] protonmail [dot] com
+* Email: DCsunset [at] protonmail [dot] com
+* PGP Key: [FFE603886300D2730CF4B76A49B24078920BB897](https://keys.openpgp.org/vks/v1/by-fingerprint/FFE603886300D2730CF4B76A49B24078920BB897)
 
 ## GitHub Stats
 
