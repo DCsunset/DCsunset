@@ -8,7 +8,7 @@ TypeScript, Rust, Python, Go
 
 ## Operating System in Use
 
-Arch Linux
+NixOS & Arch Linux
 
 ## Contact
 
