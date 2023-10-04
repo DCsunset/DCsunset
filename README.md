@@ -10,6 +10,10 @@ TypeScript, Rust, Python, Go
 
 NixOS & Arch Linux
 
+## Packages
+
+- [NUR packages](https://nur.nix-community.org/repos/dcsunset/)
+
 ## Contact
 
 * Email: DCsunset [at] protonmail [dot] com
