@@ -21,4 +21,4 @@ NixOS & Arch Linux
 
 ## GitHub Stats
 
-![DCsunset's github stats](https://github-readme-stats.vercel.app/api?username=DCsunset&theme=dracula&count_private=true&include_all_commits=true)
+![DCsunset's github stats](https://raw.githubusercontent.com/DCsunset/github-stats/master/generated/overview.svg)
