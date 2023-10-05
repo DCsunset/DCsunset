@@ -21,4 +21,4 @@ NixOS & Arch Linux
 
 ## GitHub Stats
 
-![DCsunset's github stats](https://raw.githubusercontent.com/DCsunset/github-stats/master/generated/overview.svg)
+![DCsunset's github stats](https://raw.githubusercontent.com/DCsunset/github-stats/master/generated/overview.svg#gh-dark-mode-only)
