@@ -6,7 +6,7 @@ A busy CS student interested in developing open-source and free software.
 - Operating Systems: NixOS, Arch Linux
 - Editors: Emacs, Helix, VSCode
 - Frontend Frameworks: React/Preact, Vue
-- Backend Frameworks: Fastapi (python), Fasitfy (node.js), Actix Web (Rust)
+- Backend Frameworks: Fastapi (Python), Fasitfy (Node.js), Actix Web (Rust)
 
 ## Packages
 
