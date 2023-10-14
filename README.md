@@ -10,7 +10,10 @@ A busy CS student interested in developing open-source and free software.
 
 ## Packages
 
-- [NUR packages](https://nur.nix-community.org/repos/dcsunset/)
+- [NUR](https://nur.nix-community.org/repos/dcsunset/) (Nix)
+- [crates.io](https://crates.io/users/DCsunset) (Rust)
+- [npm](https://www.npmjs.com/~dcsunset) (JavaScript)
+- [PyPI](https://pypi.org/user/DCsunset/) (Python)
 
 ## Repositories
 
