@@ -23,9 +23,10 @@ A busy CS student interested in developing open-source and free software.
 - [task.json-web](https://github.com/task-json/task.json-web): Task management app with Web UI written in React.js based on task.json format
 - [pandoc-include](https://github.com/DCsunset/pandoc-include): A pandoc filter to allow file and header inclusion
 - [taskwarrior-webui](https://github.com/DCsunset/taskwarrior-webui): Self-hosted Responsive Web UI for Taskwarrior based on Vue.js and Koa.js
-- [snapshotfs](https://github.com/DCsunset/snapshotfs): A fuse-based read-only filesystem to provide a snapshot view (tar archives) of directories or files without actually creating the archives
 - [batch-cmd](https://github.com/DCsunset/batch-cmd): Executing multiple commands in batches concurrently
 - [clip-share](https://github.com/DCsunset/clip-share): Self-hosted service to share clipboard content with other devices
+- [snapshotfs](https://github.com/DCsunset/snapshotfs): A fuse-based read-only filesystem to provide a snapshot view (tar archives) of directories or files without actually creating the archives
+- [rangefs](https://github.com/DCsunset/rangefs): A fuse-based filesystem to map ranges in file to individual files.
 
 ### Editor Plugins
 
