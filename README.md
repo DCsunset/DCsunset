@@ -4,6 +4,7 @@ A busy CS student interested in developing open-source and free software.
 
 - Commonly Used Languages: TypeScript, Rust, Python, Go, C++/C
 - Operating Systems: NixOS, Arch Linux
+- Window Managers: i3, sway
 - Editors: Emacs, Helix, VSCode
 - Frontend Frameworks: React/Preact, Vue
 - Backend Frameworks: Fastapi (Python), Fasitfy (Node.js)
