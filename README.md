@@ -28,6 +28,7 @@ A busy CS student interested in developing open-source and free software.
 - [clip-share](https://github.com/DCsunset/clip-share): Self-hosted service to share clipboard content with other devices
 - [snapshotfs](https://github.com/DCsunset/snapshotfs): A FUSE-based read-only filesystem to provide a snapshot view (tar archives) of directories or files without actually creating the archives
 - [rangefs](https://github.com/DCsunset/rangefs): A FUSE-based filesystem to map ranges in file to individual files.
+- [i3-focus-group](https://github.com/DCsunset/i3-focus-group): Create a group for i3/sway containers to easily switch focus between 
 
 ### Editor Plugins
 
