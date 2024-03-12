@@ -20,6 +20,7 @@ A busy CS student interested in developing open-source and free software.
 
 ### Tools & Productivity
 
+- [LFReader](https://github.com/DCsunset/LFReader): A self-hosted Local-first Feed Reader written in Python and Preact/React. 
 - [task.json-cli](https://github.com/task-json/task.json-cli): Command-line todo management app based on task.json format 
 - [task.json-web](https://github.com/task-json/task.json-web): Task management app with Web UI written in React.js based on task.json format
 - [pandoc-include](https://github.com/DCsunset/pandoc-include): A pandoc filter to allow file and header inclusion
@@ -28,7 +29,7 @@ A busy CS student interested in developing open-source and free software.
 - [clip-share](https://github.com/DCsunset/clip-share): Self-hosted service to share clipboard content with other devices
 - [snapshotfs](https://github.com/DCsunset/snapshotfs): A FUSE-based read-only filesystem to provide a snapshot view (tar archives) of directories or files without actually creating the archives
 - [rangefs](https://github.com/DCsunset/rangefs): A FUSE-based filesystem to map ranges in file to individual files.
-- [i3-focus-group](https://github.com/DCsunset/i3-focus-group): Create a group for i3/sway containers to easily switch focus between 
+- [i3-focus-group](https://github.com/DCsunset/i3-focus-group): Create a group for i3/sway containers to easily switch focus between
 
 ### Editor Plugins
 
