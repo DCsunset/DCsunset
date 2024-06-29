@@ -3,11 +3,10 @@
 A busy CS student interested in developing open-source and free software.
 
 - Commonly Used Languages: TypeScript, Rust, Python, Go, C++/C
-- Operating Systems: NixOS, Arch Linux
-- Window Managers: i3, sway
+- Operating Systems: NixOS
+- Window Managers: i3/sway
 - Editors: Emacs, Helix, VSCode
 - Frontend Frameworks: React/Preact, Vue
-- Backend Frameworks: Fastapi (Python), Fasitfy (Node.js)
 
 ## Packages
 
@@ -16,19 +15,20 @@ A busy CS student interested in developing open-source and free software.
 - [npm](https://www.npmjs.com/~dcsunset) (JavaScript)
 - [PyPI](https://pypi.org/user/DCsunset/) (Python)
 
-## Repositories
+## Selected Repositories
+
+### Filesystems (FUSE)
+
+- [transformfs](https://github.com/DCsunset/transformfs): A read-only FUSE filesystem to transform the content/name of files with Lua 
+- [snapshotfs](https://github.com/DCsunset/snapshotfs): A FUSE-based read-only filesystem to provide a snapshot view (tar archives) of directories or files without actually creating the archives
+- [rangefs](https://github.com/DCsunset/rangefs): A FUSE-based filesystem to map ranges in file to individual files.
 
 ### Tools & Productivity
 
 - [LFReader](https://github.com/DCsunset/LFReader): A self-hosted Local-first Feed Reader written in Python and Preact/React. 
-- [task.json-cli](https://github.com/task-json/task.json-cli): Command-line todo management app based on task.json format 
-- [task.json-web](https://github.com/task-json/task.json-web): Task management app with Web UI written in React.js based on task.json format
 - [pandoc-include](https://github.com/DCsunset/pandoc-include): A pandoc filter to allow file and header inclusion
 - [taskwarrior-webui](https://github.com/DCsunset/taskwarrior-webui): Self-hosted Responsive Web UI for Taskwarrior based on Vue.js and Koa.js
 - [batch-cmd](https://github.com/DCsunset/batch-cmd): Executing multiple commands in batches concurrently
-- [clip-share](https://github.com/DCsunset/clip-share): Self-hosted service to share clipboard content with other devices
-- [snapshotfs](https://github.com/DCsunset/snapshotfs): A FUSE-based read-only filesystem to provide a snapshot view (tar archives) of directories or files without actually creating the archives
-- [rangefs](https://github.com/DCsunset/rangefs): A FUSE-based filesystem to map ranges in file to individual files.
 - [i3-focus-group](https://github.com/DCsunset/i3-focus-group): Create a group for i3/sway containers to easily switch focus between
 
 ### Editor Plugins
