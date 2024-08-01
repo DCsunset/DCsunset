@@ -1,6 +1,6 @@
 ## About Me
 
-A busy CS student interested in developing open-source and free software.
+I am currently a CS student interested in storage and networking system and with a great passion for NixOS and Emacs.
 
 - Commonly Used Languages: TypeScript, Rust, Python, Go, C++/C
 - Operating Systems: NixOS
