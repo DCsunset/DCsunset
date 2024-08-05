@@ -8,14 +8,12 @@ I am currently a CS student interested in storage and networking system and with
 - Editors: Emacs, Helix, VSCode
 - Frontend Frameworks: React/Preact, Vue
 
-## Packages
-
-- [NUR](https://nur.nix-community.org/repos/dcsunset/) (Nix)
-- [crates.io](https://crates.io/users/DCsunset) (Rust)
-- [npm](https://www.npmjs.com/~dcsunset) (JavaScript)
-- [PyPI](https://pypi.org/user/DCsunset/) (Python)
 
 ## Selected Repositories
+
+### Nix
+
+- [NUR](https://nur.nix-community.org/repos/dcsunset/): My Nix User Repo including packages, modules, and library.
 
 ### Filesystems (FUSE)
 
