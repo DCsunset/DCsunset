@@ -13,7 +13,7 @@ I am currently a CS student interested in storage and networking system and with
 
 ### Nix
 
-- [NUR](https://nur.nix-community.org/repos/dcsunset/): My Nix User Repo including packages, modules, and library.
+- [nur-packages](https://github.com/DCsunset/nur-packages): My personal [NUR](https://nur.nix-community.org/repos/dcsunset/) with packages, modules, and library.
 
 ### Filesystems (FUSE)
 
