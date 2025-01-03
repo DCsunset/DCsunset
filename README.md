@@ -4,7 +4,7 @@ I am currently a CS student interested in storage and networking system and with
 
 - Commonly Used Languages: TypeScript, Rust, Python, Go, C++/C
 - Operating Systems: NixOS
-- Window Managers: i3/sway
+- Window Managers: Sway
 - Editors: Emacs, Helix, VSCode
 - Frontend Frameworks: React/Preact, Vue
 
