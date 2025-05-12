@@ -6,7 +6,7 @@ I am currently a CS student interested in storage and networking system and with
 - Operating Systems: NixOS
 - Window Managers: Sway
 - Editors: Emacs, Helix, VSCode
-- Frontend Frameworks: React/Preact, Vue
+- Frontend Frameworks/Libraries: Solid, React, Tailwind CSS
 
 
 ## Selected Repositories
@@ -53,4 +53,14 @@ I am currently a CS student interested in storage and networking system and with
 
 ## GitHub Stats
 
-![DCsunset's github stats](https://raw.githubusercontent.com/DCsunset/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DCsunset&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DCsunset&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DCsunset&show_icons=true" />
+</picture>
